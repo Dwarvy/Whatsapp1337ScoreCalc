@@ -3,3 +3,4 @@
 secrets.py
 test.py
 __pycache__/
+*.txt
